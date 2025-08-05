@@ -1,0 +1,22 @@
+p {
+    color: aquamarine;
+    font-size: medium;
+font-family: 'Courier New', Courier, monospace;
+text-align: right;;
+}
+h1{
+    color: aqua;
+    font-size:xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;}
+
+    body{
+        background-color: lightyellow;
+        color: hotpink;
+        font-size: smaller;
+    }
+    
+    p2{
+        color: aquamarine;
+        font-family: 'Courier New', Courier, monospace;
+    }
